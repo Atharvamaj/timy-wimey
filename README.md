@@ -1,4 +1,4 @@
-# time helper
+**# time helper
 A vertule pet with timer that helps you to manage time
 
 
@@ -7,3 +7,4 @@ A vertule pet with timer that helps you to manage time
 Project name: timy wimey
 Explain: A vertule pet with timer that helps you to manage time
 
+**
