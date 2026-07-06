@@ -1,10 +1,9 @@
-# time helper
-A vertule pet with timer that helps you to manage time
+# Time Helper
 
+A virtual pet with a timer that helps you manage time.
 
 ## For bot
 
-Project name: timy wimey
-Explain: A vertule pet with timer that helps you to manage time
-
-
+Project name: Timy Wimey
+Explain: A virtual pet with a timer that helps you manage time.
+Category: Web
